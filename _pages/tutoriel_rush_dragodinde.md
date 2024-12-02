@@ -54,11 +54,11 @@ permalink: /elevage/
 
 ---
 # Conseil d'optimisation
+A partir de là, on a tous ce qu'il faut pour commencer l'elevage et progresser dans les premières générations.
+Voici quelques conseils pour continuer de progresser efficacement jusqu'à atteindre les dernières générations
 
 ## : Monter vos métiers
 - En parallèle, montez les métiers **Alchimiste** et **Bricoleur**. Cela vous permettra de fabriquer vos items d'elevages sans frais d'artisanat
-
----
 
 ##  Gestion du cheptel
 1. **Créer des lignées de Dragodindes Pures :** 
@@ -67,12 +67,12 @@ permalink: /elevage/
    - Reproduisez un maximum de **Dragodindes Rousse** et **Amande** pour fabriquer des **potions de monture**.
 
 ### Système de nommage des Dragodindes :
+Personnellement, j'utilise ce système de nomination qui est assez simple et me permet de vite savoir quel est l'arbre généalogique d'un dragodinde
 - **A** : Parents de race différente.
 - **B** : Parents de même race, mais un aïeul de race différente.
 - **C** : Parent et aïeul de même race que l’enfant, mais un bisaïeul de race différente.
 - **P** : Dragodinde Pure (Parent, Aïeul, et Bisaïeul de même race).
 
----
 
 ## Stratégie de croisement
 - **Reproduisez les Dragodindes selon leur type** :
@@ -85,9 +85,7 @@ permalink: /elevage/
 
 - **Gestion des excédents** :
   - Utilisez les Dragodindes Pures en surplus pour vos croisements.
-  - Tenez un **tableau Excel** pour suivre vos croisements.
-
----
+  - Tenez un tableau Excel pour suivre vos croisements, avec + de 250 dragodindes, on peut vite s'y perdre
 
 ##  Utilisation et vente
 - **Races inutilisées pour les croisements :**
@@ -100,9 +98,7 @@ permalink: /elevage/
 
 Avec cette méthode, vous devriez rapidement optimiser votre élevage et votre progression. Bon jeu et bonne chance dans vos captures ! 
 
-##  Utilisation et vente
-Liste d'outils interessants:
+## Liste d'outils interessants:
  - [Calculateur de croissement](https://felis-silvestris.lescigales.org/)
  - [Rentabilité des objects d'elevage](https://www.dofustool.com/elevagerenta-excel/)
  - [Suivi de vos croisements](https://dofusdb.fr/fr/tools/breeding/crossing/dragodinde)
-
