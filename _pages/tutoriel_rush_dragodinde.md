@@ -4,15 +4,12 @@ title:  Guide pour un bon départ en élevage et capture de Dragodindes
 permalink: /elevage/
 ---
 
-# Tutoriel : Guide pour un bon départ en élevage et capture de Dragodindes
-
----
 
 ## Étape 1 : Monter rapidement au niveau 60
 - Suivez ce guide : [Guide de rush au niveau 60](https://frakkasu.notion.site/guide-de-rush#1435be1324d6806bb095cecf168b420c).
-- **Farm requis** :
-  - 50 feuilles de Kaliptus.
-  - 50 fleurs de Kaliptus.
+- Farm requis :
+  - **50 feuilles de Kaliptus.**
+  - **50 fleurs de Kaliptus.**
 - Faites le donjon [Caverne du Koulosse](https://www.dofuspourlesnoobs.com/caverne-du-koulosse.html) pour récupérer le **sort Apprivoisement de monture**.
 
 ---
@@ -30,7 +27,7 @@ permalink: /elevage/
 - 1 × Chaîne de l'Ouginak.
 - 3 × Armée de Tiques.
 
-### Pour 30 filets de capture, il vous faut :
+### Pour 30 filets de capture, il vous faut donc:
 - 30 × Étoffe de Rat Bougri.
 - 60 × Antennes du Scarafeuille Noir.
 - 30 × Cuir de Porsalu.
@@ -56,13 +53,14 @@ permalink: /elevage/
 > **Conseil :** Fabriquez 5 à 10 objets selon vos besoins.
 
 ---
+# Conseil d'optimisation
 
-## Étape 4 : Monter vos métiers
-- En parallèle, montez les métiers **Alchimiste** et **Bricoleur**.
+## : Monter vos métiers
+- En parallèle, montez les métiers **Alchimiste** et **Bricoleur**. Cela vous permettra de fabriquer vos items d'elevages sans frais d'artisanat
 
 ---
 
-## Étape 5 : Gestion du cheptel
+##  Gestion du cheptel
 1. **Créer des lignées de Dragodindes Pures :** 
    - Maintenez un cheptel de **10 Dragodindes Pures de chaque race**.
 2. **Reproduction :**
@@ -76,11 +74,12 @@ permalink: /elevage/
 
 ---
 
-## Étape 6 : Stratégie de croisement
+## Stratégie de croisement
 - **Reproduisez les Dragodindes selon leur type** :
   - **A avec A.**
   - **B avec B.**
   - **C avec C.**
+  - et bien sur **P avec P.** 
 
 > Note : Il n’y a pas de consanguinité chez les Dragodindes. Profitez-en ! 😈
 
@@ -90,7 +89,7 @@ permalink: /elevage/
 
 ---
 
-## Étape 7 : Utilisation et vente
+##  Utilisation et vente
 - **Races inutilisées pour les croisements :**
   - Vendez-les ou transformez-les en parchemins.
 - **À garder :**
@@ -99,4 +98,11 @@ permalink: /elevage/
 
 ---
 
-Avec cette méthode, vous devriez rapidement optimiser votre élevage et votre progression. Bon jeu et bonne chance dans vos captures ! 🎮
+Avec cette méthode, vous devriez rapidement optimiser votre élevage et votre progression. Bon jeu et bonne chance dans vos captures ! 
+
+##  Utilisation et vente
+Liste d'outils interessants:
+ - [Calculateur de croissement](https://felis-silvestris.lescigales.org/)
+ - [Rentabilité des objects d'elevage](https://www.dofustool.com/elevagerenta-excel/)
+ - [Suivi de vos croisements](https://dofusdb.fr/fr/tools/breeding/crossing/dragodinde)
+
