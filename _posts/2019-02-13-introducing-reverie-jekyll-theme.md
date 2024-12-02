@@ -1,87 +1,96 @@
----
-layout: post
-title: Introducing Reverie - A ridiculously elegant Jekyll theme
-categories: [Miscellaneous, Jekyll]
+# Tutoriel : Guide pour un bon départ en élevage et capture de Dragodindes
+
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for my blog.
+## Étape 1 : Monter rapidement au niveau 60
+- Suivez ce guide : [Guide de rush au niveau 60](https://frakkasu.notion.site/guide-de-rush#1435be1324d6806bb095cecf168b420c).
+- **Farm requis** :
+  - 50 feuilles de Kaliptus.
+  - 50 fleurs de Kaliptus.
+- Faites le donjon [Caverne du Koulosse](https://www.dofuspourlesnoobs.com/caverne-du-koulosse.html) pour récupérer le **sort Apprivoisement de monture**.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+---
 
-![](/images/reverie-demo.png)
+## Étape 2 : Capturer des Dragodindes Sauvages
+- **Objectif :** Capturer 10 Dragodindes Sauvages de chaque race.
+- **Préparation :**
+  - Trouvez un **bricoleur niveau 60** pour fabriquer des filets de capture.
 
-## Features overview
+### Recette pour un filet de capture :
+- 1 × Étoffe de Rat Bougri.
+- 2 × Antennes du Scarafeuille Noir.
+- 1 × Cuir de Porsalu.
+- 2 × Chaînes Brisées.
+- 1 × Chaîne de l'Ouginak.
+- 3 × Armée de Tiques.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+### Pour 30 filets de capture, il vous faut :
+- 30 × Étoffe de Rat Bougri.
+- 60 × Antennes du Scarafeuille Noir.
+- 30 × Cuir de Porsalu.
+- 60 × Chaînes Brisées.
+- 30 × Chaîne de l'Ouginak.
+- 90 × Armée de Tiques.
 
-<div style="text-align: center;">
- <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7D6KJY&placement=wwwamitmerchantcom" id="_carbonads_js"></script>
-</div>
+---
 
-## Using Reverie on GitHub Pages
+## Étape 3 : Objets d'élevage
+- En fonction de votre budget, privilégiez :
+  - **Achats directs** : Si vous avez les moyens.
+  - **Drops** : Si vous préférez économiser.
 
-### Step 1) Fork Reverie to your User Repository
+### Objets recommandés (coût modéré mais efficaces) :
+- **Abreuvoirs :** Bambou.
+- **Baffeurs :** Bambou.
+- **Foufroyeurs :** Bambou.
+- **Mangeoires :** Bambou.
+- **Caresseurs :** Plume de Tofu Maléfique.
+- **Dragofesses :** Cuir violet de Bwork.
 
-Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
+> **Conseil :** Fabriquez 5 à 10 objets selon vos besoins.
 
-Alternatively, you can use [Use this template](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
+---
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+## Étape 4 : Monter vos métiers
+- En parallèle, montez les métiers **Alchimiste** et **Bricoleur**.
 
-### Step 2) Customize and view your site
+---
 
-Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
+## Étape 5 : Gestion du cheptel
+1. **Créer des lignées de Dragodindes Pures :** 
+   - Maintenez un cheptel de **10 Dragodindes Pures de chaque race**.
+2. **Reproduction :**
+   - Reproduisez un maximum de **Dragodindes Rousse** et **Amande** pour fabriquer des **potions de monture**.
 
-Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
+### Système de nommage des Dragodindes :
+- **A** : Parents de race différente.
+- **B** : Parents de même race, mais un aïeul de race différente.
+- **C** : Parent et aïeul de même race que l’enfant, mais un bisaïeul de race différente.
+- **P** : Dragodinde Pure (Parent, Aïeul, et Bisaïeul de même race).
 
-### Step 3) Publish your first blog post
+---
 
-Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your first blog post. That's all you need to do to publish your first blog post! This [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing the posts.
+## Étape 6 : Stratégie de croisement
+- **Reproduisez les Dragodindes selon leur type** :
+  - **A avec A.**
+  - **B avec B.**
+  - **C avec C.**
 
-> You can add additional posts in the browser on GitHub.com too! Just hit the <kbd>Create new file</kbd> button in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
+> Note : Il n’y a pas de consanguinité chez les Dragodindes. Profitez-en ! 😈
 
-## Using Categories in Reverie
+- **Gestion des excédents** :
+  - Utilisez les Dragodindes Pures en surplus pour vos croisements.
+  - Tenez un **tableau Excel** pour suivre vos croisements.
 
-You can categorize your content based on `categories` in Reverie. For this, you just need to add `categories` in front matter like below:
+---
 
-For adding single category:
+## Étape 7 : Utilisation et vente
+- **Races inutilisées pour les croisements :**
+  - Vendez-les ou transformez-les en parchemins.
+- **À garder :**
+  - **Dragodindes Amande** et **Rousse** : Pour fabriquer des potions de monture.
+  - **Générations 9 et 10** : Pour fabriquer des puissants parchemins.
 
-```md
-categories: JavaScript
-```
+---
 
-For adding multiple categories:
-
-```md
-categories: [PHP, Laravel]
-```
-
-The contegorized content can be shown over this URL: <https://yourgithubusername.github.io/categories/>
-
-## RSS
-
-The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be found at <https://yourgithubusername.github.io/feed>. You can see the example RSS feed over [here](https://www.amitmerchant.com/reverie/feed).
-
-## Sitemap
-
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap).
-
-## License
-
-MIT
-
-
+Avec cette méthode, vous devriez rapidement optimiser votre élevage et votre progression. Bon jeu et bonne chance dans vos captures ! 🎮
