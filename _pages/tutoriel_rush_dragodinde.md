@@ -57,7 +57,7 @@ permalink: /elevage/
 A partir de là, on a tous ce qu'il faut pour commencer l'elevage et progresser dans les premières générations.
 Voici quelques conseils pour continuer de progresser efficacement jusqu'à atteindre les dernières générations
 
-## : Monter vos métiers
+## Monter vos métiers
 - En parallèle, montez les métiers **Alchimiste** et **Bricoleur**. Cela vous permettra de fabriquer vos items d'elevages sans frais d'artisanat
 
 ##  Gestion du cheptel
