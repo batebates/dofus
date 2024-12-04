@@ -21,19 +21,19 @@ permalink: /elevage/
 
 ### Recette pour un filet de capture :
 - 1 × Étoffe de Rat Bougri.
-- 2 × Antennes du Scarafeuille Noir.
+- 2 × Ailes du Scarafeuille Noir.
 - 1 × Cuir de Porsalu.
 - 2 × Chaînes Brisées.
-- 1 × Chaîne de l'Ouginak.
-- 3 × Armée de Tiques.
+- 1 × Babine de macien
+- 3 × Laines de boufton noir
 
 ### Pour 30 filets de capture, il vous faut donc:
 - 30 × Étoffe de Rat Bougri.
-- 60 × Antennes du Scarafeuille Noir.
+- 60 × Ailes du Scarafeuille Noir.
 - 30 × Cuir de Porsalu.
 - 60 × Chaînes Brisées.
-- 30 × Chaîne de l'Ouginak.
-- 90 × Armée de Tiques.
+- 30 × Babine de macien
+- 90 × Laines de boufton noir
 
 ---
 
